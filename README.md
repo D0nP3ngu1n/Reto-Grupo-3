@@ -1,8 +1,8 @@
 # Reto-Grupo-3
 Repositorio del reto intermodular del grupo 3
 # Participantes
-Efrén Gutiérrez Cantero
-David Prado Mejuto
-Tania Echevarría Fernandez
-Manuel LLano Rebanal
-Lucía Ferreras Fernandez-Marcote
+Efrén Gutiérrez Cantero \t
+David Prado Mejuto \t
+Tania Echevarría Fernandez \t
+Manuel LLano Rebanal \t
+Lucía Ferreras Fernandez-Marcote \t
